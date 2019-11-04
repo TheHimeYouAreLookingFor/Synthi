@@ -1,2 +1,0 @@
-# Synthi
-Synthesizer school project
